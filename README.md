@@ -20,7 +20,7 @@ The game was written in **Java 1.8**, and **all assets were provided by the cour
   - Game over screen when player loses all lives
 
 ## 🚀 How to Run
-1. `git clone [<repo URL>](https://github.com/OmerBartu/Tank-Game.git)
+1. `git clone <[<repo URL>](https://github.com/OmerBartu/Tank-Game.git)>'
 2. `javac Main.java`
 3. `java Main` (replace `Main` with your actual entry class)
 

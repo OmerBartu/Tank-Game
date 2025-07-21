@@ -21,7 +21,6 @@ The game was written in **Java 1.8**, and **all assets were provided by the cour
 
 ## How to Run
 > ✅ This project was built and tested using the following Java version:
-```bash```
 java version "1.8.0_431"
 Java(TM) SE Runtime Environment (build 1.8.0_431-b10)
 Java HotSpot(TM) 64-Bit Server VM (build 25.431-b10, mixed mode)

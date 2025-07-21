@@ -17,6 +17,7 @@ The game was written in **Java 1.8**, and **all assets were provided by the cour
 - 🕹️ **Game Mechanics**:
   - Pause/Unpause with `P`
   - Restart game with `R` (both in pause menu and game over screen)
+  - Closing the via `Esc` (both in pause menu and game over screen)
   - Game over screen when player loses all lives
 
 ## How to Run
@@ -27,6 +28,10 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.431-b10, mixed mode)
 1. `git clone https://github.com/OmerBartu/Tank-Game.git'
 2. `javac Main.java`
 3. `java Main` (replace `Main` with your actual entry class)
+
+An image from the game:
+<img width="1085" height="755" alt="image" src="https://github.com/user-attachments/assets/cb7389af-60f0-42fe-8167-1a387f72cef7" />
+
 
 ## 📄 License & Asset Attribution
 ### Code  
